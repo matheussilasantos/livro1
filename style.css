@@ -20,12 +20,26 @@ img{
 }
 
 .card{
-    width: 250px;
-    border-radius: 15px;
-box-shadow: 2px 2px grey; 
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 2px 2px grey;    
 }
 
 .card img{
     width: 100%;
     border-radius: 15px;
 }
+#cartoes{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: space-evenly;
+
+}
+
+#musica{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: space-evenly;
+}
+
+
